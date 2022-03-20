@@ -1,5 +1,7 @@
 使用说明
-   1     diy-part1.sh ： 拉取插件包或插件
+   1     diy-part1.sh ： 
+   
+                         拉取插件包或插件
                          拉取方法1   格式  { git clone                    地址                         .git package/插件名           } 
                                       例   { git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree }
                                       
