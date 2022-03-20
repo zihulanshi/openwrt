@@ -28,10 +28,7 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 
 # 状态
 
-# 实时监控
-git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
-#git clone https://github.com/Jason6111/luci-app-netdata.git package/luci-app-netdata
-#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netdata package/luci-app-netdata
+# 实时监控 lede包已有 最近有bug
 
 #释放内存
 git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree
@@ -97,8 +94,6 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 
 # 网络
 
-#Turbo ACC 加速
-
-#git clone https://github.com/imapproxy/luci-app-turboacc.git package/luci-app-turboacc
+#Turbo ACC 加速 lede包已有
 
 ##############################################################################################
