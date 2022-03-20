@@ -37,13 +37,21 @@
  资源来源：
  　　　　　
       　　 https://github.com/P3TERX/Actions-OpenWrt
+         
            https://github.com/coolsnowwolf/lede
+           
            https://github.com/kenzok78/luci-theme-argonne.git
+           
            https://github.com/fw876/helloworld
+           
            https://github.com/xiaorouji/openwrt-passwall
+           
            https://github.com/jerrykuku/luci-app-vssr
+           
            https://github.com/vernesong/OpenClash
+           
            https://github.com/rufengsuixing/luci-app-adguardhome
+           
            https://github.com/kiddin9/openwrt-packages
                                       
                                       
