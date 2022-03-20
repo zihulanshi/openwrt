@@ -30,8 +30,8 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 
 # 实时监控 lede包已有 最近有bug
 
-#释放内存
-git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree
+#释放内存 lede包已有
+#git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree
 
 ##############################################################################################
 
