@@ -86,8 +86,6 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 # NAS
 
 #文件助手
-#git clone https://github.com/DarkDean89/luci-app-filebrowser.git package/luci-app-filebrowser
-#svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
 
 ##############################################################################################
