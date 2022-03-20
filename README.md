@@ -39,7 +39,7 @@
          - [LEDE](https://github.com/coolsnowwolf/lede)
          - [dockerman](https://github.com/lisaac/luci-app-dockerman)
          - [poweroff](https://github.com/esirplayground/luci-app-poweroff)
-         - [helloworld](https://github.com/fw876/helloworld)
+         - [ssrp](https://github.com/fw876/helloworld)
          - [passwall](https://github.com/xiaorouji/openwrt-passwall)
          - [Helloword](https://github.com/jerrykuku/luci-app-vssr)
          - [OpenClash](https://github.com/vernesong/OpenClash)
