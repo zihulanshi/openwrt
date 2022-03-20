@@ -33,11 +33,10 @@
                          
                          注意查看插件依赖方法：从插件地址打开Makefile文件－－查询DEPENDS
                          
-                         
- 资源来源：
- 　　　　　
-      　　 
-         　https://github.com/P3TERX/Actions-OpenWrt
+         
+  资源来源：       
+         
+       　  https://github.com/P3TERX/Actions-OpenWrt
          
            https://github.com/coolsnowwolf/lede
            
