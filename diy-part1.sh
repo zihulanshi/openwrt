@@ -29,8 +29,9 @@ git clone https://github.com/kenzok78/luci-theme-argonne.git package/luci-theme-
 # 状态
 
 # 实时监控
+git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 #git clone https://github.com/Jason6111/luci-app-netdata.git package/luci-app-netdata
-svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netdata package/luci-app-netdata
+#svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netdata package/luci-app-netdata
 
 #释放内存
 git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-ramfree
@@ -42,13 +43,12 @@ git clone https://github.com/chinaboy2345/luci-app-ramfree.git package/luci-app-
 #定时重启
 git clone https://github.com/f8q8/luci-app-autoreboot.git package/luci-app-autoreboot
 
-#ttyd
+#ttyd lede包已有
 
 #磁盘管理
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 
-#文件传输
-#git clone https://github.com/zxl78585/luci-app-filetransfer.git package/luci-app-filetransfer
+#文件传输 lede包已有
 
 #  关机
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
@@ -80,7 +80,7 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
-#git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 #svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome package/adguardhome
 #svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-adguardhome package/luci-app-adguardhome
 
