@@ -1,6 +1,6 @@
 此固件为86_64位软路由/旁路由/单口等，亦可自行修改其它
 
-CONFIG_TARGET_KERNEL_PARTSIZE=256 #内核256mb .config文件里面修改
+CONFIG_TARGET_KERNEL_PARTSIZE=256 #内核256mb .config文件里面修改 
 CONFIG_TARGET_ROOTFS_PARTSIZE=512 #根512MB  .config文件里面修改
 
 文件使用说明
