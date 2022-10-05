@@ -53,6 +53,9 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 
 # 服务
 
+# aliddns
+git clone https://github.com/chenhw2/luci-app-aliddns.git package/luci-app-aliddns
+
 #docker
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 #echo 'src-git dockerman https://github.com/lisaac/luci-app-dockerman' >>feeds.conf.default
