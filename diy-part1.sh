@@ -76,8 +76,14 @@ git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dock
 #openclash
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #echo 'src-git OpenClash https://github.com/vernesong/OpenClash' >>feeds.conf.default
+
 #luci-app-adguardhome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+
+# UnblockNeteaseMusic
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockmusic
+
+
 
 ##############################################################################################
 
