@@ -86,7 +86,8 @@ git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 # UnblockNeteaseMusic
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockmusic
 
-
+# serverchan 微信/Telegram 推送的插件
+git clone https://github.com/tty228/luci-app-serverchan.git package/serverchan
 
 ##############################################################################################
 
